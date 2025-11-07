@@ -25,3 +25,5 @@ ztestweb('Rainbow');
 [travis-url]: https://travis-ci.com//ztestweb
 [daviddm-image]: https://david-dm.org//ztestweb.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org//ztestweb
+
+connected to remote github repository now.
