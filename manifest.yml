@@ -1,0 +1,6 @@
+applications:
+  - name: my-node-app
+    memory: 256M
+    instances: 1
+    buildpacks:
+      - nodejs_buildpack
