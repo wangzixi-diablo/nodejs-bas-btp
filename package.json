@@ -17,7 +17,7 @@
   ],
   "type": "module",
   "dependencies": {
-    "express":"5.1.0"
+    "express": "5.1.0"
   },
   "devDependencies": {
     "eslint": "^6.6.0",
@@ -64,6 +64,7 @@
     ]
   },
   "scripts": {
+    "start": "node lib/index.js",
     "pretest": "eslint .",
     "test": "jest"
   },
